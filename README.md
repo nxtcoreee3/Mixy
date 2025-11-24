@@ -2,8 +2,10 @@ Welcome to the Mixy Repo!
 This repository is for reporting bugs, requesting features, and sharing feedback to help improve Mixy.
 
 ❗ Note: You cannot download Mixy from GitHub.
+
 To get the app:
-App Store: search Mixy
+
+App Store: https://apps.apple.com/se/app/mixy-make-mashups/id6739403586?l=en-GB
 Website: https://usemixy.com￼
 
 ⸻
@@ -11,6 +13,7 @@ Website: https://usemixy.com￼
 🤖 Discord
 
 Join our Discord below to get access to Testflights, PRO channels and App Announcements 
+
 https://discord.gg/B4ZfncRGFZ
 
 ⸻
