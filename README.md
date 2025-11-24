@@ -8,6 +8,13 @@ Website: https://usemixy.com￼
 
 ⸻
 
+🤖 Discord
+
+Join our Discord below to get access to Testflights, PRO channels and App Announcements 
+https://discord.gg/B4ZfncRGFZ
+
+⸻
+
 🐞 Bug Report Template
 
 Use this template when you find a bug or problem in the Mixy app.
