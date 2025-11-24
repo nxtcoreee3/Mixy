@@ -1,4 +1,4 @@
-Welcome to the official Mixy Issue Tracker!
+Welcome to the official Mixy Repo!
 This repository is only used for reporting bugs, suggesting features, and giving feedback.
 
 ⸻
