@@ -1,48 +1,81 @@
-Welcome to the official Mixy Repo!
-This repository is only used for reporting bugs, suggesting features, and giving feedback.
+Welcome to the Mixy Repo!
+This repository is for reporting bugs, requesting features, and sharing feedback to help improve Mixy.
+
+❗ Note: You cannot download Mixy from GitHub.
+To get the app:
+App Store: search Mixy
+Website: https://usemixy.com￼
 
 ⸻
 
-📱 What is Mixy?
+🐞 Bug Report Template
 
-Mixy is a social app that lets users connect, share, and enjoy fun interactive features with friends.
-It’s designed to be simple, fast, and enjoyable — whether you’re chatting, sharing, or exploring new ways to interact.
+Use this template when you find a bug or problem in the Mixy app.
+
+Title: (Short description of the problem)
+
+1. What happened?
+
+Describe what went wrong in your own words.
+Example: “The app crashes when I tap the Change Avatar button.”
+
+2. What did you expect to happen?
+
+Explain what should have happened instead.
+Example: “I expected to be able to select a new avatar without the app closing.”
+
+3. How can we reproduce the behavior?
+
+Step-by-step instructions so we can see the bug too:
+	1.	Open the Mixy app
+	2.	Go to the Profile tab
+	3.	Tap Settings
+	4.	Tap Change Avatar
+	5.	App crashes
+
+(Include device, iOS version, app version if you can.)
+Example: iPhone 14, iOS 17.2, Mixy v2.5.1
+
+4. Screenshots / Videos (Optional but helpful)
+
+Attach a screenshot or screen recording of the bug if possible.
+
+5. Additional info (Optional)
+
+Any extra details that might help us fix the problem.
+Example: “Happens only when Wi-Fi is off” or “Happens after updating the app today.”
 
 ⸻
 
-❗ You cannot download Mixy from GitHub
+🌟 Feature Request Template
 
-This repository does not contain the Mixy app, source code, or installers.
+Use this template to suggest new features or improvements for Mixy.
 
-To download Mixy:
+Title: (Short description of your idea)
 
-👉 App Store:
+1. What’s the feature?
 
-Search “Mixy” on the App Store
+Describe your idea clearly in your own words.
+Example: “Add a dark mode option for the app.”
 
-👉 Website:
+2. Why is this feature useful?
 
-https://usemixy.com
+Explain why it would improve the app or make it more fun/easier to use.
+Example: “It would be easier on the eyes at night and save battery on iPhones with OLED screens.”
+
+3. How would it work? (Optional)
+
+Give details on how you imagine it working.
+Example: “A toggle in Settings to switch between Light Mode and Dark Mode.”
+
+4. Additional info (Optional)
+
+Any extra ideas, references, or examples that might help.
+Example: “Other apps like Instagram and Twitter already have this feature.”
 
 ⸻
 
-🐞 Report a Bug
+💛 Thanks for helping improve Mixy!
 
-If you found a problem in the app:
-	1.	Go to the Issues tab
-	2.	Click New Issue
-	3.	Choose Bug in labels
-	4.	Tell us what happened
-
-We’ll take a look as soon as possible!
-
-⸻
-
-⭐ Request a Feature
-
-Have an idea to make Mixy better?
-	1.	Go to Issues
-	2.	Click New Issue
-	3.	Select Feedback in labels
-
-We love hearing suggestions.
+Your feedback and reports help us fix issues faster and build features you’ll love.
+Feel free to open an issue anytime!
