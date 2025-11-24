@@ -31,7 +31,7 @@ https://usemixy.com
 If you found a problem in the app:
 	1.	Go to the Issues tab
 	2.	Click New Issue
-	3.	Choose Bug Report
+	3.	Choose Bug in labels
 	4.	Tell us what happened
 
 We’ll take a look as soon as possible!
@@ -43,6 +43,6 @@ We’ll take a look as soon as possible!
 Have an idea to make Mixy better?
 	1.	Go to Issues
 	2.	Click New Issue
-	3.	Select Feature Request
+	3.	Select Feedback in labels
 
 We love hearing suggestions.
