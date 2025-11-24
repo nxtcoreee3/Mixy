@@ -6,6 +6,7 @@ This repository is for reporting bugs, requesting features, and sharing feedback
 To get the app:
 
 App Store: https://apps.apple.com/se/app/mixy-make-mashups/id6739403586?l=en-GB
+
 Website: https://usemixy.com￼
 
 ⸻
